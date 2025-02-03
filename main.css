@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+.container{
+    max-width: 100%;
+    width: 100%;
+    margin: 0auto;
+    
+}
+.parent-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30%;
+}
+.parent-detal2{
+    align-items: center;
+    display: flex;
+    gap: 10px;
+}
+.parenttt{
+    display: flex;
+    justify-content: center;
+    width: 650px;
+    height: 700px;
+    border-radius: 50px;
+    border: 1px solid black;
+  
+    
+}
+.container-tt{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+.eng-kattaota{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 550px;
+    gap: 100px;
+}
+.r22{
+    display: flex;
+}
+h1{
+    position: absolute;
+    padding-top: 180px;
+    color: rgba(14, 13, 93, 1);
+
+}
+.ota{
+    display: flex;
+    width: 650px;
+    height: 700px;
+    border-radius: 50px;
+    border: 1px solid burlywood;
+    justify-content: center;
+    
+}
+.bola1{
+    display: flex;
+    
+  
+}
+.tasiniotasi{
+    display: flex;
+    align-items: center;
+    padding-bottom: 550px;
+    gap: 80px;
+    
+}
+.h1-otasi{
+    display: flex;
+    
+}
+.battn{
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    font-size: 28px;
+    background-color: rgb(236, 218, 218);
+    border: none;
+    
+
+}
+.-bottn{
+    position: absolute;
+    padding-top: 250px;
+   
+}
+input{
+    width: 500px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid rgb(162, 162, 162);
+}
+.oo{
+    padding-top: 60px;
+    gap: 30px;
+    
+}
+.rr{
+    display: flex;
+    justify-content: center;
+}
+a{
+    
+    display: flex;
+    justify-content: center;
+}
+.pp{
+    width: 200px;
+    height: 67px;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: rgba(246, 158, 134, 1);
+    border: none;
+    color: white;
+   
+}
+.gg{
+    padding-top: 20px;
+    padding-left: 300px;
+}
+.jus{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+
